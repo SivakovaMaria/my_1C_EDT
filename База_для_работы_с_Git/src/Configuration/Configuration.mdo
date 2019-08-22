@@ -26,4 +26,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.ДатаПроекта</constants>
+  <catalogs>Catalog.СоздаваемыеПроекты</catalogs>
 </mdclass:Configuration>
